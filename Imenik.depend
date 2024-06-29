@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1641941442 source:c:\users\user\desktop\projekat 1\imenik\imenik.cpp
+	"imenik.h"
+	<string>
+	<algorithm>
+
+1641941468 c:\users\user\desktop\projekat 1\imenik\imenik.h
+	<iostream>
+	<string>
+	<vector>
+
+1641866442 c:\users\user\desktop\projekat 1\imenik\imenik.cpp
+	"imenik.h"
+
+1641940071 source:c:\users\user\desktop\projekat 1\imenik\main.cpp
+	<iostream>
+	<string>
+	"imenik.h"
+
+1642037964 source:d:\emseh\desktop\emina\fakultet\fax 1234\semestri\v semestar\strukture podataka i algoritmi\projekti\2021\projekat 1\imenik\main.cpp
+	<iostream>
+	<string>
+	"imenik.h"
+
+1713720884 d:\emseh\desktop\emina\fakultet\fax 1234\semestri\v semestar\strukture podataka i algoritmi\projekti\2021\projekat 1\imenik\imenik.h
+	<iostream>
+	<string>
+	<vector>
+
+1716240094 source:c:\users\muvin\desktop\emina\projekti\imenik (dvostruko povezana lista)\imenik\imenik.cpp
+	"imenik.h"
+	<string>
+	<algorithm>
+
+1716403515 c:\users\muvin\desktop\emina\projekti\imenik (dvostruko povezana lista)\imenik\imenik.h
+	<iostream>
+	<string>
+	<vector>
+
+1716240437 source:c:\users\muvin\desktop\emina\projekti\imenik (dvostruko povezana lista)\imenik\main.cpp
+	<iostream>
+	<string>
+	"imenik.h"
+
+1716403556 source:c:\users\muvin\desktop\emina\projekti\imenik\imenik.cpp
+	"imenik.h"
+	<string>
+	<algorithm>
+
+1719612556 c:\users\muvin\desktop\emina\projekti\imenik\imenik.h
+	<iostream>
+	<string>
+	<vector>
+
+1716407328 source:c:\users\muvin\desktop\emina\projekti\imenik\main.cpp
+	<iostream>
+	<string>
+	"imenik.h"
+
